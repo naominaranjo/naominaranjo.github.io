@@ -20,17 +20,15 @@ Mechanical engineering senior at Cornell, graduating **May 2026** with a B.S. an
 - **Cornell University**  
   *Bachelor of Science in Mechanical Engineering* (Computer Science Minor)  
   Expected Graduation: **May 2026**  
-  *Early Master of Engineering in Mechanical Engineering*  
-  Expected Graduation: **December 2026**  
   Ithaca, NY  
   • Relevant Coursework: Dynamics, Mechanical Synthesis, Discrete Structures, Object-Oriented Programming, Computer Systems Programming, Analysis of Algorithms, Functional Programming, Mechanics of Materials, Heat Transfer, Fluid Mechanics, Mechatronics, Systems Dynamics & Control  
 
 ---
 
 #### Skills
-- **Programming & Controls:** Python (OpenCV, Flask, NumPy, PyTorch), MATLAB/Simulink, C/C++, Java, JavaScript, SQL, Arduino, Embedded Systems, Control Systems  
 - **CAD & Simulation:** SolidWorks, Siemens NX, Onshape, Fusion 360, AutoCAD, CREO, ANSYS (FEA/CFD), GD&T, DFMA/DFA  
 - **Fabrication & Tools:** CNC Milling (CAM/G-code), 3D Printing, Laser Cutting, Machining, PCB Design & Assembly, Soldering, LabVIEW, Oscilloscopes, DAQ Systems  
+- **Programming & Controls:** Python (OpenCV, Flask, NumPy, PyTorch), MATLAB/Simulink, C/C++, Java, JavaScript, SQL, Arduino, Embedded Systems, Control Systems  
 - **Languages:** English, Spanish (Native Speaker)  
 
 ---
@@ -72,12 +70,10 @@ Mechanical engineering senior at Cornell, graduating **May 2026** with a B.S. an
 #### Projects
 
 - **Cornell AutoBoat – Robotics Subteam**  
-
   *Skee-ball Shooter*  
   - Designed and built a flywheel-based skee-ball shooter with a gravity-fed loader controlled by a servo motor  
   - Tuned feeding and launch system for consistent ball trajectories during competition  
   - Integrated design with electrical and software subsystems for full robotic functionality  
-
   *Robotic Arm Design*  
   - Created and manufactured robotic arm components for object manipulation  
   - Performed FEA to verify structural integrity under operational loads  

@@ -9,14 +9,13 @@
 # Site Settings
 locale                   : "en-US"
 title                    : Naomi Naranjo
-title                    : Naomi Naranjo
+
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : Naomi Naranjo
 description              : Naomi Naranjo - Projects and Resume
-baseurl                  : "/portfolio-naominaranjo" # Set this to "portfolio-<your-github-username>" 
-url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
-
+baseurl                  : "" # Set this to "portfolio-<your-github-username>" 
+url                      : "https://naominaranjo.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 # Theme and Style
 theme: jekyll-theme-minimal
 color_scheme: light # light/default, dark, or aqua
